@@ -1,0 +1,482 @@
+item###################################################################
+ # Long-term benefits and risks of frontline nilotinib vs imatinib for chronic myeloid leukemia in chronic phase: 5-year update of the randomized ENESTnd trial.
+
+## Journal
+Leukemia
+
+## Authors
+A Hochhaus, G Saglio, T P Hughes, R A Larson, D-W Kim, S Issaragrisil, P D le Coutre, G Etienne, P E Dorlhiac-Llacer, R E Clark, I W Flinn, H Nakamae, B Donohue, W Deng, D Dalal, H D Menssen, H M Kantarjian
+
+## Publication Date
+2016-May
+
+## Keywords / MeSH
+Blood Glucose, Cholesterol, Follow-Up Studies, Humans, Imatinib Mesylate, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Leukemia, Myeloid, Chronic-Phase, Pyrimidines, Risk Assessment, Treatment Outcome
+
+## Abstract
+In the phase 3 Evaluating Nilotinib Efficacy and Safety in Clinical Trials-Newly Diagnosed Patients (ENESTnd) study, nilotinib resulted in earlier and higher response rates and a lower risk of progression to accelerated phase/blast crisis (AP/BC) than imatinib in patients with newly diagnosed chronic myeloid leukemia in chronic phase (CML-CP). Here, patients' long-term outcomes in ENESTnd are evaluated after a minimum follow-up of 5 years. By 5 years, more than half of all patients in each nilotinib arm (300 mg twice daily, 54%; 400 mg twice daily, 52%) achieved a molecular response 4.5 (MR(4.5); BCR-ABL⩽0.0032% on the International Scale) compared with 31% of patients in the imatinib arm. A benefit of nilotinib was observed across all Sokal risk groups. Overall, safety results remained consistent with those from previous reports. Numerically more cardiovascular events (CVEs) occurred in patients receiving nilotinib vs imatinib, and elevations in blood cholesterol and glucose levels were also more frequent with nilotinib. In contrast to the high mortality rate associated with CML progression, few deaths in any arm were associated with CVEs, infections or pulmonary diseases. These long-term results support the positive benefit-risk profile of frontline nilotinib 300 mg twice daily in patients with CML-CP.
+
+## Affiliations
+Abteilung Hämatologie/Onkologie, Klinik für Innere Medizin II, Universitätsklinikum Jena, Jena, Germany.; Centre Régional de Lutte Contre le Cancer de Bordeaux et du Sud-Ouest, Institut Bergonié, Département d'Oncologie Médicale, Bordeaux, France.; Charité-Universitätsmedizin Berlin, Berlin, Germany.; Department of Hematology, Osaka City University, Osaka, Japan.; Department of Medicine, The University of Chicago, Chicago, IL, USA.; Division of Internal Medicine & Hematology, University of Turin, Orbassano, Italy.; Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.; Hospital das Clinicas FMUSP, São Paulo, Brazil.; Leukemia Research Institute, Seoul St Mary's Hospital, The Catholic University of Korea, Seoul, Korea.; Novartis Pharma AG, Basel, Switzerland.; Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.; Royal Liverpool University Hospital, Liverpool, UK.; Sarah Cannon Research Institute, Nashville, TN, USA.; South Australian Health and Medical Research Institute (SAHMRI), University of Adelaide, SA Pathology, Adelaide, South Australia, Australia.; The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/26837842
+item###################################################################
+ # Final 5-Year Study Results of DASISION: The Dasatinib Versus Imatinib Study in Treatment-Naïve Chronic Myeloid Leukemia Patients Trial.
+
+## Journal
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+
+## Authors
+Jorge E Cortes, Giuseppe Saglio, Hagop M Kantarjian, Michele Baccarani, Jiří Mayer, Concepción Boqué, Neil P Shah, Charles Chuah, Luis Casanova, Brigid Bradley-Garelik, George Manos, Andreas Hochhaus
+
+## Publication Date
+2016-Jul-10
+
+## Keywords / MeSH
+Adult, Aged, Dasatinib, Fusion Proteins, bcr-abl, Humans, Imatinib Mesylate, Leukemia, Myeloid, Chronic-Phase, Middle Aged, Mutation
+
+## Abstract
+We report the 5-year analysis from the phase III Dasatinib Versus Imatinib Study in Treatment-Naïve Chronic Myeloid Leukemia Patients (DASISION) trial, evaluating long-term efficacy and safety outcomes of patients with chronic myeloid leukemia (CML) in chronic phase (CP) treated with dasatinib or imatinib. Patients with newly diagnosed CML-CP were randomly assigned to receive dasatinib 100 mg once daily (n = 259) or imatinib 400 mg once daily (n = 260). At the time of study closure, 61% and 63% of dasatinib- and imatinib-treated patients remained on initial therapy, respectively. Cumulative rates of major molecular response and molecular responses with a 4.0- or 4.5-log reduction in BCR-ABL1 transcripts from baseline by 5 years remained statistically significantly higher for dasatinib compared with imatinib. Rates for progression-free and overall survival at 5 years remained high and similar across treatment arms. In patients who achieved BCR-ABL1 ≤ 10% at 3 months (dasatinib, 84%; imatinib, 64%), improvements in progression-free and overall survival and lower rates of transformation to accelerated/blast phase were reported compared with patients with BCR-ABL1 greater than 10% at 3 months. Transformation to accelerated/blast phase occurred in 5% and 7% of patients in the dasatinib and imatinib arms, respectively. Fifteen dasatinib-treated and 19 imatinib-treated patients had BCR-ABL1 mutations identified at discontinuation. There were no new or unexpected adverse events identified in either treatment arm, and pleural effusion was the only drug-related, nonhematologic adverse event reported more frequently with dasatinib (28% v 0.8% with imatinib). First occurrences of pleural effusion were reported with dasatinib, with the highest incidence in year 1. Arterial ischemic events were uncommon in both treatment arms. These final results from the DASISION trial continue to support dasatinib 100 mg once daily as a safe and effective first-line therapy for the long-term treatment of CML-CP.
+
+## Affiliations
+Jorge E. Cortes and Hagop M. Kantarjian The University of Texas MD Anderson Cancer Center, Houston, TX; Neil P. Shah, University of California San Francisco School of Medicine, San Francisco, CA; Brigid Bradley-Garelik and George Manos, Bristol-Myers Squibb, Princeton, NJ; Giuseppe Saglio, University of Turin, Turin; Michele Baccarani, S. Orsola-Malpighi Hospital, University of Bologna, Bologna, Italy; Jiří Mayer, University Hospital Brno and Central European Institute of Technology, Masaryk University, Brno, Czech Republic; Concepción Boqué, Institut Català d'Oncologia, Hospital Duran i Reynals, L'Hospitalet, Barcelona, Spain; Charles Chuah, Singapore General Hospital, Duke-National University of Singapore Medical School, Singapore; Luis Casanova, Instituto Nacional de Enfermedades Neoplásicas, Lima, Perú;and Andreas Hochhaus, Universitätsklinikum Jena, Jena, Germany.; Jorge E. Cortes and Hagop M. Kantarjian The University of Texas MD Anderson Cancer Center, Houston, TX; Neil P. Shah, University of California San Francisco School of Medicine, San Francisco, CA; Brigid Bradley-Garelik and George Manos, Bristol-Myers Squibb, Princeton, NJ; Giuseppe Saglio, University of Turin, Turin; Michele Baccarani, S. Orsola-Malpighi Hospital, University of Bologna, Bologna, Italy; Jiří Mayer, University Hospital Brno and Central European Institute of Technology, Masaryk University, Brno, Czech Republic; Concepción Boqué, Institut Català d'Oncologia, Hospital Duran i Reynals, L'Hospitalet, Barcelona, Spain; Charles Chuah, Singapore General Hospital, Duke-National University of Singapore Medical School, Singapore; Luis Casanova, Instituto Nacional de Enfermedades Neoplásicas, Lima, Perú;and Andreas Hochhaus, Universitätsklinikum Jena, Jena, Germany. jcortes@mdanderson.org.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/27217448
+item###################################################################
+ # 
+
+## Journal
+
+
+## Authors
+
+
+## Publication Date
+
+
+## Keywords / MeSH
+
+
+## Abstract
+
+
+## Affiliations
+
+
+## Source
+item###################################################################
+ # Bosutinib Versus Imatinib for Newly Diagnosed Chronic Myeloid Leukemia: Results From the Randomized BFORE Trial.
+
+## Journal
+Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+
+## Authors
+Jorge E Cortes, Carlo Gambacorti-Passerini, Michael W Deininger, Michael J Mauro, Charles Chuah, Dong-Wook Kim, Irina Dyagil, Nataliia Glushko, Dragana Milojkovic, Philipp le Coutre, Valentin Garcia-Gutierrez, Laurence Reilly, Allison Jeynes-Ellis, Eric Leip, Nathalie Bardy-Bouxin, Andreas Hochhaus, Tim H Brümmendorf
+
+## Publication Date
+2018-Jan-20
+
+## Keywords / MeSH
+Adolescent, Adult, Aged, Aged, 80 and over, Aniline Compounds, Antineoplastic Agents, Biomarkers, Tumor, Disease Progression, Female, Fusion Proteins, bcr-abl, Genetic Predisposition to Disease, Humans, Imatinib Mesylate, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Male, Middle Aged, Nitriles, Phenotype, Philadelphia Chromosome, Protein Kinase Inhibitors, Quinolines, Time Factors, Treatment Outcome, Young Adult
+
+## Abstract
+Purpose Bosutinib is a potent dual SRC/ABL kinase inhibitor approved for adults with Philadelphia chromosome-positive chronic myeloid leukemia (CML) resistant and /or intolerant to prior therapy. We assessed the efficacy and safety of bosutinib versus imatinib for first-line treatment of chronic-phase CML. Methods In this ongoing, multinational, phase III study, 536 patients with newly diagnosed chronic-phase CML were randomly assigned 1:1 to receive 400 mg of bosutinib once daily (n = 268) or imatinib (n = 268). Per protocol, efficacy was assessed in patients who were Philadelphia chromosome-positive with typical (e13a2/e14a2) transcripts (bosutinib, n = 246; imatinib, n = 241). Patients with Philadelphia chromosome-negative-/ BCR-ABL1-positive status and those with unknown Philadelphia chromosome status and/or atypical BCR-ABL1 transcript type were excluded from this population. Results The major molecular response (MMR) rate at 12 months (primary end point) was significantly higher with bosutinib versus imatinib (47.2% v 36.9%, respectively; P = .02), as was complete cytogenetic response (CCyR) rate by 12 months (77.2% v 66.4%, respectively; P = .0075). Cumulative incidence was favorable with bosutinib (MMR: hazard ratio, 1.34; P = .0173; CCyR: hazard ratio, 1.38; P < .001), with earlier response times. Four patients (1.6%) receiving bosutinib and six patients (2.5%) receiving imatinib experienced disease progression to accelerated/blast phase. Among treated patients, 22.0% of patients receiving bosutinib and 26.8% of patients receiving imatinib discontinued treatment, most commonly for drug-related toxicity (12.7% and 8.7%, respectively). Grade ≥ 3 diarrhea (7.8% v 0.8%) and increased ALT (19.0% v 1.5%) and AST (9.7% v 1.9%) levels were more common with bosutinib. Cardiac and vascular toxicities were uncommon. Conclusion Patients who received bosutinib had significantly higher rates of MMR and CCyR and achieved responses faster than those who received imatinib. Consistent with the known safety profile, GI events and transaminase elevations were more common with bosutinib. Results indicate bosutinib may be an effective first-line treatment for chronic-phase CML.
+
+## Affiliations
+Jorge E. Cortes, University of Texas MD Anderson Cancer Center, Houston, TX; Carlo Gambacorti-Passerini, University of Milano-Bicocca, Monza, Italy; Michael W. Deininger, University of Utah, Salt Lake City, UT; Michael J. Mauro, Memorial Sloan Kettering Cancer Center, New York, NY; Charles Chuah, Singapore General Hospital, Duke-National University of Singapore Medical School, Singapore, Singapore; Dong-Wook Kim, Seoul St Mary's Hospital, The Catholic University of Korea, Seoul, South Korea; Irina Dyagil, National Research Center for Radiation Medicine, Kiev; Nataliia Glushko, Ivano-Frankivsk Regional Clinical Hospital, Ivano-Frankivsk, Ukraine; Dragana Milojkovic, Imperial College London at Hammersmith Hospital London; Laurence Reilly and Allison Jeynes-Ellis, Avillion, London, United Kingdom; Philipp le Coutre, Charité-Universitätsmedizin Berlin, Berlin; Andreas Hochhaus, Klinik für Innere Medizin II, Universitätsklinikum Jena, Jena; Tim H. Brümmendorf, Universitätsklinikum RWTH Aachen, Aachen, Germany; Valentin Garcia-Gutierrez, Hospital Universitario Ramón y Cajal, Instituto Ramón y Cajal de Investigación Sanitaria, Madrid, Spain; Eric Leip, Pfizer, Cambridge, MA; Nathalie Bardy-Bouxin, Pfizer International Operation, Paris, France.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/29091516
+item###################################################################
+ # Essential thrombocythemia.
+
+## Journal
+Orphanet journal of rare diseases
+
+## Authors
+Jean B Brière
+
+## Publication Date
+2007-Jan-08
+
+## Keywords / MeSH
+Adult, Age Distribution, Aged, Diagnosis, Differential, Disease Progression, Female, Hematologic Agents, Humans, Incidence, Janus Kinase 2, Male, Middle Aged, Mutation, Practice Guidelines as Topic, Pregnancy, Pregnancy Complications, Hematologic, Prevalence, Prognosis, Risk Assessment, Sex Distribution, Sweden, Thrombocythemia, Essential, Thrombocytosis
+
+## Abstract
+Essential thrombocythemia (ET) is an acquired myeloproliferative disorder (MPD) characterized by a sustained elevation of platelet number with a tendency for thrombosis and hemorrhage. The prevalence in the general population is approximately 30/100,000. The median age at diagnosis is 65 to 70 years, but the disease may occur at any age. The female to male ratio is about 2:1. The clinical picture is dominated by a predisposition to vascular occlusive events (involving the cerebrovascular, coronary and peripheral circulation) and hemorrhages. Some patients with ET are asymptomatic, others may experience vasomotor (headaches, visual disturbances, lightheadedness, atypical chest pain, distal paresthesias, erythromelalgia), thrombotic, or hemorrhagic disturbances. Arterial and venous thromboses, as well as platelet-mediated transient occlusions of the microcirculation and bleeding, represent the main risks for ET patients. Thromboses of large arteries represent a major cause of mortality associated with ET or can induce severe neurological, cardiac or peripheral artery manifestations. Acute leukemia or myelodysplasia represent only rare and frequently later-onset events. The molecular pathogenesis of ET, which leads to the overproduction of mature blood cells, is similar to that found in other clonal MPDs such as chronic myeloid leukemia, polycythemia vera and myelofibrosis with myeloid metaplasia of the spleen. Polycythemia vera, myelofibrosis with myeloid metaplasia of the spleen and ET are generally associated under the common denomination of Philadelphia (Ph)-negative MPDs. Despite the recent identification of the JAK2 V617F mutation in a subset of patients with Ph-negative MPDs, the detailed pathogenetic mechanism is still a matter of discussion. Therapeutic interventions in ET are limited to decisions concerning the introduction of anti-aggregation therapy and/or starting platelet cytoreduction. The therapeutic value of hydroxycarbamide and aspirin in high risk patients has been supported by controlled studies. Avoiding thromboreduction or opting for anagrelide to postpone the long-term side effects of hydrocarbamide in young or low risk patients represent alternative options. Life expectancy is almost normal and similar to that of a healthy population matched by age and sex.
+
+## Affiliations
+Service d'hématologie clinique, Hôpital Beaujon, Clichy, France. jean.briere@bjn.ap-hop-paris.fr
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/17210076
+item###################################################################
+ # Genomics of chronic neutrophilic leukemia.
+
+## Journal
+Blood
+
+## Authors
+Julia E Maxson, Jeffrey W Tyner
+
+## Publication Date
+2017-Feb-09
+
+## Keywords / MeSH
+Antineoplastic Agents, Carrier Proteins, Cell Proliferation, Clonal Evolution, DNA-Binding Proteins, Dioxygenases, Disease Progression, Gene Expression Regulation, Leukemic, Genomics, Humans, Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative, Leukemia, Neutrophilic, Chronic, Mutation, Neutrophils, Nuclear Proteins, Practice Guidelines as Topic, Proto-Oncogene Proteins, Receptors, Colony-Stimulating Factor, Repressor Proteins, Serine-Arginine Splicing Factors, Splicing Factor U2AF
+
+## Abstract
+Chronic neutrophilic leukemia (CNL) is a distinct myeloproliferative neoplasm with a high prevalence (>80%) of mutations in the colony-stimulating factor 3 receptor (). These mutations activate the receptor, leading to the proliferation of neutrophils that are a hallmark of CNL. Recently, the World Health Organization guidelines have been updated to include  mutations as part of the diagnostic criteria for CNL. Because of the high prevalence of  mutations in CNL, it is tempting to think of this disease as being solely driven by this genetic lesion. However, recent additional genomic characterization demonstrates that CNL has much in common with other chronic myeloid malignancies at the genetic level, such as the clinically related diagnosis atypical chronic myeloid leukemia. These commonalities include mutations in , spliceosome proteins (, ), and epigenetic modifiers (, ). Some of these same mutations also have been characterized as frequent events in clonal hematopoiesis of indeterminate potential, suggesting a more complex disease evolution than was previously understood and raising the possibility that an age-related clonal process of preleukemic cells could precede the development of CNL. The order of acquisition of  mutations relative to mutations in , epigenetic modifiers, or the spliceosome has been determined only in isolated case reports; thus, further work is needed to understand the impact of mutation chronology on the clonal evolution and progression of CNL. Understanding the complete landscape and chronology of genomic events in CNL will help in the development of improved therapeutic strategies for this patient population.
+
+## Affiliations
+Department of Cell, Developmental & Cancer Biology, Oregon Health & Science University, Portland, OR.; Division of Hematology and Medical Oncology.; Knight Cancer Institute, and.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/28028025
+item###################################################################
+ # Meisoindigo Acts as a Molecular Glue to Target PKMYT1 for Degradation in Chronic Myeloid Leukemia Therapy.
+
+## Journal
+Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+
+## Authors
+Zhao-Xin Zhang, Shu-Ying Li, Fang-Fei Li, Qin-Yan Shi, Cheng-Yong Tan, Xiao-Jing Wang, Mi Li, Yun-Bao Liu, Jing Jin, Yong Li, Shi-Shan Yu
+
+## Publication Date
+2025-Jun
+
+## Keywords / MeSH
+Animals, Apoptosis, Cell Line, Tumor, Cell Proliferation, Humans, K562 Cells, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Membrane Proteins, Mice, Protein Serine-Threonine Kinases, Protein-Tyrosine Kinases, Proteolysis, Ubiquitin-Protein Ligases, Xenograft Model Antitumor Assays
+
+## Abstract
+Meisoindigo (Mei) has been clinically utilized for the treatment of chronic myeloid leukemia (CML), yet the precise molecular targets by which it exerts effects remain unclear. Through activity-based protein profiling (ABPP), the protein kinase, membrane-associated tyrosine/threonine 1 (PKMYT1) is identified as a direct target of Mei. Specifically, Mei forms a selective and reversible covalent bond with the Cys301 residue of PKMYT1, triggering its K48-linked polyubiquitination and accelerating proteasomal degradation, which is mediated by the E3 ligase TRIM25. The study reveals that Mei acts as a molecular glue, enhancing the interaction between PKMYT1 and TRIM25 by approximately 30-fold, thereby facilitating efficient PKMYT1 degradation. Further investigations reveal the pivotal role of PKMYT1 in cell growth. Knockdown of PKMYT1 in K562 cells induces G2/M phase arrest, enhances early apoptosis, and inhibits cell proliferation. In an orthotopic xenograft model, PKMYT1 knockdown delays leukemia progression and reduces lymph node metastasis, reinforcing its role in CML progression and metastasis. These findings provide a molecular rationale for the clinical efficacy of Mei and highlight PKMYT1 as a promising therapeutic target for CML. Additionally, it offers a valuable scaffold and inspiration for the development of novel molecular glue-based protein degraders.
+
+## Affiliations
+State Key Laboratory of Bioactive Substance and Function of Natural Medicines, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 100050, China.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/40279509
+item###################################################################
+ # Cancer Stem Cells-Origins and Biomarkers: Perspectives for Targeted Personalized Therapies.
+
+## Journal
+Frontiers in immunology
+
+## Authors
+Lia Walcher, Ann-Kathrin Kistenmacher, Huizhen Suo, Reni Kitte, Sarah Dluczek, Alexander Strauß, André-René Blaudszun, Tetyana Yevsa, Stephan Fricke, Uta Kossatz-Boehlert
+
+## Publication Date
+2020
+
+## Keywords / MeSH
+Animals, Biomarkers, Biomarkers, Tumor, Cellular Senescence, Combined Modality Therapy, Disease Management, Disease Progression, Disease Susceptibility, Drug Resistance, Neoplasm, Humans, Immunotherapy, Adoptive, Molecular Diagnostic Techniques, Molecular Targeted Therapy, Neoplasms, Neoplastic Stem Cells, Organ Specificity, Precision Medicine, Prognosis
+
+## Abstract
+The use of biomarkers in diagnosis, therapy and prognosis has gained increasing interest over the last decades. In particular, the analysis of biomarkers in cancer patients within the pre- and post-therapeutic period is required to identify several types of cells, which carry a risk for a disease progression and subsequent post-therapeutic relapse. Cancer stem cells (CSCs) are a subpopulation of tumor cells that can drive tumor initiation and can cause relapses. At the time point of tumor initiation, CSCs originate from either differentiated cells or adult tissue resident stem cells. Due to their importance, several biomarkers that characterize CSCs have been identified and correlated to diagnosis, therapy and prognosis. However, CSCs have been shown to display a high plasticity, which changes their phenotypic and functional appearance. Such changes are induced by chemo- and radiotherapeutics as well as senescent tumor cells, which cause alterations in the tumor microenvironment. Induction of senescence causes tumor shrinkage by modulating an anti-tumorigenic environment in which tumor cells undergo growth arrest and immune cells are attracted. Besides these positive effects after therapy, senescence can also have negative effects displayed post-therapeutically. These unfavorable effects can directly promote cancer stemness by increasing CSC plasticity phenotypes, by activating stemness pathways in non-CSCs, as well as by promoting senescence escape and subsequent activation of stemness pathways. At the end, all these effects can lead to tumor relapse and metastasis. This review provides an overview of the most frequently used CSC markers and their implementation as biomarkers by focussing on deadliest solid (lung, stomach, liver, breast and colorectal cancers) and hematological (acute myeloid leukemia, chronic myeloid leukemia) cancers. Furthermore, it gives examples on how the CSC markers might be influenced by therapeutics, such as chemo- and radiotherapy, and the tumor microenvironment. It points out, that it is crucial to identify and monitor residual CSCs, senescent tumor cells, and the pro-tumorigenic senescence-associated secretory phenotype in a therapy follow-up using specific biomarkers. As a future perspective, a targeted immune-mediated strategy using chimeric antigen receptor based approaches for the removal of remaining chemotherapy-resistant cells as well as CSCs in a personalized therapeutic approach are discussed.
+
+## Affiliations
+Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School, Hannover, Germany.; Department of Immunology, Fraunhofer Institute for Cell Therapy and Immunology, Leipzig, Germany.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/32849491
+item###################################################################
+ # First-line imatinib vs second- and third-generation TKIs for chronic-phase CML: a systematic review and meta-analysis.
+
+## Journal
+Blood advances
+
+## Authors
+Claudia Vener, Rita Banzi, Federico Ambrogi, Annalisa Ferrero, Giuseppe Saglio, Gabriella Pravettoni, Milena Sant
+
+## Publication Date
+2020-Jun-23
+
+## Keywords / MeSH
+Adult, Antineoplastic Agents, Dasatinib, Humans, Imatinib Mesylate, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Leukemia, Myeloid, Chronic-Phase
+
+## Abstract
+Imatinib, the first tyrosine kinase inhibitor (TKI) for the treatment of chronic myeloid leukemia (CML), improves overall survival (OS), but the introduction of newer TKIs requires the definition of the optimal first-line TKI for newly diagnosed Philadelphia chromosome-positive (Ph+) chronic-phase (CP) CML. This systematic review of randomized controlled trials (RCTs) compares the efficacy and safety of imatinib vs second-generation (dasatinib, nilotinib, bosutinib) and third-generation TKIs (ponatinib) in adults with newly diagnosed Ph+ CP CML, concentrating on OS, progression-free survival (PFS), and hematological and nonhematological adverse events. The quality of the evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) method. Seven RCTs published between 1990 and 2019 (involving 3262 participants) satisfied the eligibility criteria. Two RCTs (imatinib vs nilotinib and imatinib vs dasatinib) found no difference in 5-year OS or PFS. Second- and third-generation TKIs improved 3-month major molecular responses (relative risk [RR], 4.28; 95% confidence interval [CI], 2.20-8.32) and other efficacy outcomes, decreased accelerated/blastic-phase transformations (RR, 0.44; 95% CI, 0.26-0.74), but were associated with more cases of thrombocytopenia (RR, 1.57; 95% CI, 1.20-2.05), cardiovascular events (RR, 2.54; 95% CI, 1.49-4.33), and pancreatic (RR, 2.29; 95% CI, 1.32-3.96) and hepatic effects (RR, 3.51; 95% CI 1.55-7.92). GRADE showed that the certainty of the evidence ranged from high to moderate. This study shows that, in comparison with imatinib, second- and third-generation TKIs improve clinical responses, but the safer toxicity profile of imatinib may make it a better option for patients with comorbidities.
+
+## Affiliations
+Analytical Epidemiology and Health Impact Unit, Department of Research, National Tumour Institute of Milan, Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Foundation, Milan, Italy.; Centre for Health Regulatory Policies, Istituto di Ricerche Farmacologiche Mario Negri, IRCCS, Milan, Italy.; Department of Clinical and Biological Sciences, University of Turin, Turin, Italy.; Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.; G. A. Maccacaro Laboratory, Department of Clinical Sciences and Community Health, University of Milan, Milan, Italy.; Martini Hospital, Turin, Italy; and.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/32559295
+item###################################################################
+ # European LeukemiaNet laboratory recommendations for the diagnosis and management of chronic myeloid leukemia.
+
+## Journal
+Leukemia
+
+## Authors
+Nicholas C P Cross, Thomas Ernst, Susan Branford, Jean-Michel Cayuela, Michael Deininger, Alice Fabarius, Dennis Dong Hwan Kim, Katerina Machova Polakova, Jerald P Radich, Rüdiger Hehlmann, Andreas Hochhaus, Jane F Apperley, Simona Soverini
+
+## Publication Date
+2023-Nov
+
+## Keywords / MeSH
+Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Protein Kinase Inhibitors, Recurrence
+
+## Abstract
+From the laboratory perspective, effective management of patients with chronic myeloid leukemia (CML) requires accurate diagnosis, assessment of prognostic markers, sequential assessment of levels of residual disease and investigation of possible reasons for resistance, relapse or progression. Our scientific and clinical knowledge underpinning these requirements continues to evolve, as do laboratory methods and technologies. The European LeukemiaNet convened an expert panel to critically consider the current status of genetic laboratory approaches to help diagnose and manage CML patients. Our recommendations focus on current best practice and highlight the strengths and pitfalls of commonly used laboratory tests.
+
+## Affiliations
+Centre for Cancer Biology and SA Pathology, Adelaide, SA, Australia.; Centre for Haematology, Imperial College London, London, UK.; Department of Clinical Haematology, Imperial College Healthcare NHS Trust, London, UK.; Department of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, Canada.; Department of Medical and Surgical Sciences, Institute of Hematology "Lorenzo e Ariosto Seràgnoli", University of Bologna, Bologna, Italy.; ELN Foundation, Weinheim, Germany.; Faculty of Medicine, University of Southampton, Southampton, UK. ncpc@soton.ac.uk.; Fred Hutchinson Cancer Center, Seattle, WA, USA.; Huntsman Cancer Center Salt Lake City, Salt Lake City, UT, USA.; III. Medizinische Klinik, Medizinische Fakultät Mannheim, Universität Heidelberg, Mannheim, Germany.; Institute of Hematology and Blood Transfusion, Prague, Czech Republic.; Klinik für Innere Medizin II, Universitätsklinikum Jena, Jena, Germany.; Laboratory of Hematology, University Hospital Saint-Louis, AP-HP and EA3518, Université Paris Cité, Paris, France.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/37794101
+item###################################################################
+ # A phase 2 trial of ponatinib in Philadelphia chromosome-positive leukemias.
+
+## Journal
+The New England journal of medicine
+
+## Authors
+J E Cortes, D-W Kim, J Pinilla-Ibarz, P le Coutre, R Paquette, C Chuah, F E Nicolini, J F Apperley, H J Khoury, M Talpaz, J DiPersio, D J DeAngelo, E Abruzzese, D Rea, M Baccarani, M C Müller, C Gambacorti-Passerini, S Wong, S Lustgarten, V M Rivera, T Clackson, C D Turner, F G Haluska, F Guilhot, M W Deininger, A Hochhaus, T Hughes, J M Goldman, N P Shah, H Kantarjian
+
+## Publication Date
+2013-Nov-07
+
+## Keywords / MeSH
+Adolescent, Adult, Aged, Aged, 80 and over, Female, Humans, Imidazoles, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Male, Middle Aged, Precursor Cell Lymphoblastic Leukemia-Lymphoma, Protein Kinase Inhibitors, Pyridazines, Thrombocytopenia, Thrombosis, Young Adult
+
+## Abstract
+Ponatinib is a potent oral tyrosine kinase inhibitor of unmutated and mutated BCR-ABL, including BCR-ABL with the tyrosine kinase inhibitor-refractory threonine-to-isoleucine mutation at position 315 (T315I). We conducted a phase 2 trial of ponatinib in patients with chronic myeloid leukemia (CML) or Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph-positive ALL). We enrolled 449 heavily pretreated patients who had CML or Ph-positive ALL with resistance to or unacceptable side effects from dasatinib or nilotinib or who had the BCR-ABL T315I mutation. Ponatinib was administered at an initial dose of 45 mg once daily. The median follow-up was 15 months. Among 267 patients with chronic-phase CML, 56% had a major cytogenetic response (51% of patients with resistance to or unacceptable side effects from dasatinib or nilotinib and 70% of patients with the T315I mutation), 46% had a complete cytogenetic response (40% and 66% in the two subgroups, respectively), and 34% had a major molecular response (27% and 56% in the two subgroups, respectively). Responses were observed regardless of the baseline BCR-ABL kinase domain mutation status and were durable; the estimated rate of a sustained major cytogenetic response of at least 12 months was 91%. No single BCR-ABL mutation conferring resistance to ponatinib was detected. Among 83 patients with accelerated-phase CML, 55% had a major hematologic response and 39% had a major cytogenetic response. Among 62 patients with blast-phase CML, 31% had a major hematologic response and 23% had a major cytogenetic response. Among 32 patients with Ph-positive ALL, 41% had a major hematologic response and 47% had a major cytogenetic response. Common adverse events were thrombocytopenia (in 37% of patients), rash (in 34%), dry skin (in 32%), and abdominal pain (in 22%). Serious arterial thrombotic events were observed in 9% of patients; these events were considered to be treatment-related in 3%. A total of 12% of patients discontinued treatment because of an adverse event. Ponatinib had significant antileukemic activity across categories of disease stage and mutation status. (Funded by Ariad Pharmaceuticals and others; PACE ClinicalTrials.gov number, NCT01207440 .).
+
+## Affiliations
+The authors' full names, degrees, and affiliations are listed in the Appendix.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/24180494
+item###################################################################
+ # Blast Crisis.
+
+## Journal
+Journal of education & teaching in emergency medicine
+
+## Authors
+Margaret Kirwin, Jennifer Yee
+
+## Publication Date
+2020-Apr
+
+## Keywords / MeSH
+
+
+## Abstract
+This scenario was developed to educate emergency medicine residents on the diagnosis and management of blast crisis. Chronic myeloid leukemia (CML) makes up 15% of diagnosed adult leukemias with the median age of diagnosis being 67 years old. Chronic myeloid leukemia consists of three phases: chronic, accelerated, and blast phases. Most patients are initially diagnosed while in the chronic phase.1 Of those diagnosed in the chronic phase and being treated with a tyrosine kinase inhibitor (TKI), about 1% -1.5% of CML patients per year will subsequently transform into an advanced phase or blast crisis.2 While rare, blast crisis is considered an oncologic emergency, with increased mortality occurring primarily from subsequent infections or bleeding. Therefore, emergency physicians must be familiar with its clinical presentation and subsequent management. By the end of this simulation, the participant will be able to: 1) create a thorough differential for the undifferentiated febrile, altered patient, 2) identify the signs and symptoms of blast crisis, 3) describe proper resuscitation of a patient in blast crisis, and 4) describe the indications, steps, and contraindications of performing a lumbar puncture. This session was conducted using high-fidelity simulation, followed by a debriefing session and lecture on the diagnosis, differential diagnosis, and management of blast crisis. Debriefing methods may be left to the discretion of participants, but the authors have used advocacy-inquiry techniques. This scenario may also be run as an oral boards case. Our simulation center's feedback form is based on the Center of Medical Simulation's Debriefing Assessment for Simulation in Healthcare (DASH) Student Version Short Form, with the inclusion of required qualitative feedback if an element was scored less than a 6 or 7. This session received all 6 or 7 scores (consistently effective/very good or extremely effective/outstanding). During the debriefing session, feedback from the residents was largely positive. They appreciated reviewing the broad differential of altered mental status and oncologic emergencies. While many groups anchored on the diagnosis of encephalitis, they also expressed that after this experience, blast crisis would be added to their differential for patients with CML. This is a cost-effective method for reviewing blast crisis. Learners were able to identify more common causes of altered mental status in their differentials, but without further prompting, they were unable to ultimately come up with the diagnosis of blast crisis. Our main take-away is to continue reviewing oncologic emergencies as a part of our residency curriculum. Medical simulation, chronic myeloid leukemia, blast crisis, leukostasis, emergency medicine, oncologic emergencies, hematologic emergencies.
+
+## Affiliations
+The Ohio State University, Department of Emergency Medicine, Columbus OH.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/37465412
+item###################################################################
+ # Measurable residual disease in chronic myeloid leukemia.
+
+## Journal
+Haematologica
+
+## Authors
+Susan Branford, Jane F Apperley
+
+## Publication Date
+2022-Dec-01
+
+## Keywords / MeSH
+Disease Progression, Hematopoietic Stem Cell Transplantation, Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Leukemia, Myeloid, Neoplasm, Residual
+
+## Abstract
+Chronic myeloid leukemia is characterized by a single genetic abnormality resulting in a fusion gene whose mRNA product is easily detected and quantified by reverse-transcriptase polymerase chain reaction analysis. Measuring residual disease was originally introduced to identify patients relapsing after allogeneic stem cell transplantation but rapidly adopted to quantify responses to tyrosine kinase inhibitors. Real-time quantitative polymerase chain reaction is now an essential tool for the management of patients and is used to influence treatment decisions. In this review we track this development including the international collaboration to standardize results, discuss the integration of molecular monitoring with other factors that affect patients' management, and describe emerging technology. Four case histories describe varying scenarios in which the accurate measurement of residual disease identified patients at risk of disease progression and allowed appropriate investigations and timely clinical intervention.
+
+## Affiliations
+Department of Genetics and Molecular Pathology, Centre for Cancer Biology, SA Pathology, Adelaide, Australia; School of Medicine, University of Adelaide, Adelaide, Australia; Clinical and Health Sciences, University of South Australia, Adelaide, Australia. susan.branford@sa.gov.au.; Department of Haematology, Hammersmith Hospital, Imperial College Healthcare NHS Trust, London, UK; Centre for Haematology, Department of Immunology and Inflammation, Faculty of Medicine, Imperial College London, London, UK.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/36453517
+item###################################################################
+ # Single-cell transcriptomics uncovers distinct molecular signatures of stem cells in chronic myeloid leukemia.
+
+## Journal
+Nature medicine
+
+## Authors
+Alice Giustacchini, Supat Thongjuea, Nikolaos Barkas, Petter S Woll, Benjamin J Povinelli, Christopher A G Booth, Paul Sopp, Ruggiero Norfo, Alba Rodriguez-Meira, Neil Ashley, Lauren Jamieson, Paresh Vyas, Kristina Anderson, Åsa Segerstolpe, Hong Qian, Ulla Olsson-Strömberg, Satu Mustjoki, Rickard Sandberg, Sten Eirik W Jacobsen, Adam J Mead
+
+## Publication Date
+2017-Jun
+
+## Keywords / MeSH
+Adult, Aged, Blast Crisis, Chromatin Immunoprecipitation, Core Binding Factor Alpha 2 Subunit, Female, Flow Cytometry, Gene Expression Profiling, Gene Expression Regulation, Neoplastic, Gene Library, Genes, abl, Humans, In Situ Hybridization, Fluorescence, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Male, Middle Aged, Neoplastic Stem Cells, Reverse Transcriptase Polymerase Chain Reaction, Sequence Analysis, DNA, Sequence Analysis, RNA, Single-Cell Analysis, Transcriptome, Young Adult
+
+## Abstract
+Recent advances in single-cell transcriptomics are ideally placed to unravel intratumoral heterogeneity and selective resistance of cancer stem cell (SC) subpopulations to molecularly targeted cancer therapies. However, current single-cell RNA-sequencing approaches lack the sensitivity required to reliably detect somatic mutations. We developed a method that combines high-sensitivity mutation detection with whole-transcriptome analysis of the same single cell. We applied this technique to analyze more than 2,000 SCs from patients with chronic myeloid leukemia (CML) throughout the disease course, revealing heterogeneity of CML-SCs, including the identification of a subgroup of CML-SCs with a distinct molecular signature that selectively persisted during prolonged therapy. Analysis of nonleukemic SCs from patients with CML also provided new insights into cell-extrinsic disruption of hematopoiesis in CML associated with clinical outcome. Furthermore, we used this single-cell approach to identify a blast-crisis-specific SC population, which was also present in a subclone of CML-SCs during the chronic phase in a patient who subsequently developed blast crisis. This approach, which might be broadly applied to any malignancy, illustrates how single-cell analysis can identify subpopulations of therapy-resistant SCs that are not apparent through cell-population analysis.
+
+## Affiliations
+Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm, Sweden.; Department of Cellular Therapy, Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway.; Department of Medical Science and Division of Hematology, University Hospital, Uppsala, Sweden.; Department of Medicine, Center for Hematology and Regenerative Medicine, Karolinska Institutet, Stockholm, Sweden.; Haemopoietic Stem Cell Biology Laboratory, Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.; Hematology Research Unit Helsinki, Department of Clinical Chemistry and Hematology, University of Helsinki and Helsinki University Hospital Comprehensive Cancer Center, Helsinki, Finland.; Integrated Cardio Metabolic Center (ICMC), Karolinska Institutet, Huddinge, Sweden.; Karolinska University Hospital, Stockholm, Sweden.; Ludwig Institute for Cancer Research, Stockholm, Sweden.; MRC Molecular Hematology Unit, Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.; NIHR Biomedical Research Centre, Churchill Hospital, Oxford, UK.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/28504724
+item###################################################################
+ # Prognosis in Chronic Myeloid Leukemia: Baseline Factors, Dynamic Risk Assessment and Novel Insights.
+
+## Journal
+Cells
+
+## Authors
+Miriam Iezza, Sofia Cortesi, Emanuela Ottaviani, Manuela Mancini, Claudia Venturi, Cecilia Monaldi, Sara De Santis, Nicoletta Testoni, Simona Soverini, Gianantonio Rosti, Michele Cavo, Fausto Castagnetti
+
+## Publication Date
+2023-Jun-23
+
+## Keywords / MeSH
+Blast Crisis, Chromosome Aberrations, Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Risk Assessment
+
+## Abstract
+The introduction of tyrosine kinase inhibitors (TKIs) has changed the treatment paradigm of chronic myeloid leukemia (CML), leading to a dramatic improvement of the outcome of CML patients, who now have a nearly normal life expectancy and, in some selected cases, the possibility of aiming for the more ambitious goal of treatment-free remission (TFR). However, the minority of patients who fail treatment and progress from chronic phase (CP) to accelerated phase (AP) and blast phase (BP) still have a relatively poor prognosis. The identification of predictive elements enabling a prompt recognition of patients at higher risk of progression still remains among the priorities in the field of CML management. Currently, the baseline risk is assessed using simple clinical and hematologic parameters, other than evaluating the presence of additional chromosomal abnormalities (ACAs), especially those at "high-risk". Beyond the onset, a re-evaluation of the risk status is mandatory, monitoring the response to TKI treatment. Moreover, novel critical insights are emerging into the role of genomic factors, present at diagnosis or evolving on therapy. This review presents the current knowledge regarding prognostic factors in CML and their potential role for an improved risk classification and a subsequent enhancement of therapeutic decisions and disease management.
+
+## Affiliations
+Dipartimento di Scienze Mediche e Chirurgiche (DIMEC), Università di Bologna, 40138 Bologna, Italy.; Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori (IRST) IRCCS "Dino Amadori", 47014 Meldola, Italy.; Istituto di Ematologia "Seràgnoli", IRCCS Azienda Ospedaliero-Universitaria di Bologna, 40138 Bologna, Italy.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/37443737
+item###################################################################
+ # Genetic landscape of chronic myeloid leukemia.
+
+## Journal
+International journal of hematology
+
+## Authors
+Yotaro Ochi
+
+## Publication Date
+2023-Jan
+
+## Keywords / MeSH
+Blast Crisis, Drug Resistance, Neoplasm, Fusion Proteins, bcr-abl, Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Mutation, Protein Kinase Inhibitors
+
+## Abstract
+Chronic myeloid leukemia (CML) is a myeloproliferative neoplasm caused by the BCR::ABL1 fusion gene, which aberrantly activates ABL1 kinase and promotes the overproduction of leukemic cells. CML typically develops in the chronic phase (CP) and progresses to a blast crisis (BC) after years without effective treatment. Although prognosis has substantially improved after the development of tyrosine kinase inhibitors (TKIs) targeting the BCR::ABL1 oncoprotein, some patients still experience TKI resistance and poor prognosis. One of the mechanisms of TKI resistance is ABL1 kinase domain mutations, which are found in approximately half of the cases, newly acquired during treatment. Moreover, genetic studies have revealed that CML patients carry additional mutations that are also observed in other myeloid neoplasms. ASXL1 mutations are often found in both CP and BC, whereas other mutations, such as those in RUNX1, IKZF1, and TP53, are preferentially found in BC. The presence of additional mutations, such as ASXL1 mutations, is a potential biomarker for predicting therapeutic efficacy. The mechanisms by which these additional mutations affect disease subtypes, drug resistance, and prognosis need to be elucidated. In this review, we have summarized and discussed the landscape and clinical impact of genetic abnormalities in CML.
+
+## Affiliations
+Department of Pathology and Tumor Biology, Graduate School of Medicine, Kyoto University, F-Building, Yoshida-Konoe-Cho, Sakyo-Ku, Kyoto, 606-8501, Japan. ochi.yotaro.24v@kyoto-u.jp.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/36477676
+item###################################################################
+ # Imatinib compared with interferon and low-dose cytarabine for newly diagnosed chronic-phase chronic myeloid leukemia.
+
+## Journal
+The New England journal of medicine
+
+## Authors
+Stephen G O'Brien, François Guilhot, Richard A Larson, Insa Gathmann, Michele Baccarani, Francisco Cervantes, Jan J Cornelissen, Thomas Fischer, Andreas Hochhaus, Timothy Hughes, Klaus Lechner, Johan L Nielsen, Philippe Rousselot, Josy Reiffers, Giuseppe Saglio, John Shepherd, Bengt Simonsson, Alois Gratwohl, John M Goldman, Hagop Kantarjian, Kerry Taylor, Gregor Verhoef, Ann E Bolton, Renaud Capdeville, Brian J Druker
+
+## Publication Date
+2003-Mar-13
+
+## Keywords / MeSH
+Adolescent, Adult, Aged, Antineoplastic Agents, Antineoplastic Combined Chemotherapy Protocols, Benzamides, Cytarabine, Disease Progression, Female, Humans, Imatinib Mesylate, Interferon-alpha, Leukemia, Myeloid, Chronic-Phase, Male, Middle Aged, Piperazines, Prospective Studies, Pyrimidines, Survival Rate
+
+## Abstract
+Imatinib, a selective inhibitor of the BCR-ABL tyrosine kinase, produces high response rates in patients with chronic-phase chronic myeloid leukemia (CML) who have had no response to interferon alfa. We compared the efficacy of imatinib with that of interferon alfa combined with low-dose cytarabine in newly diagnosed chronic-phase CML. We randomly assigned 1106 patients to receive imatinib (553 patients) or interferon alfa plus low-dose cytarabine (553 patients). Crossover to the alternative group was allowed if stringent criteria defining treatment failure or intolerance were met. Patients were evaluated for hematologic and cytogenetic responses, toxic effects, and rates of progression. After a median follow-up of 19 months, the estimated rate of a major cytogenetic response (0 to 35 percent of cells in metaphase positive for the Philadelphia chromosome) at 18 months was 87.1 percent (95 percent confidence interval, 84.1 to 90.0) in the imatinib group and 34.7 percent (95 percent confidence interval, 29.3 to 40.0) in the group given interferon alfa plus cytarabine (P<0.001). The estimated rates of complete cytogenetic response were 76.2 percent (95 percent confidence interval, 72.5 to 79.9) and 14.5 percent (95 percent confidence interval, 10.5 to 18.5), respectively (P<0.001). At 18 months, the estimated rate of freedom from progression to accelerated-phase or blast-crisis CML was 96.7 percent in the imatinib group and 91.5 percent in the combination-therapy group (P<0.001). Imatinib was better tolerated than combination therapy. In terms of hematologic and cytogenetic responses, tolerability, and the likelihood of progression to accelerated-phase or blast-crisis CML, imatinib was superior to interferon alfa plus low-dose cytarabine as first-line therapy in newly diagnosed chronic-phase CML.
+
+## Affiliations
+University of Newcastle, Newcastle, United Kingdom.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/12637609
+item###################################################################
+ # Long-term outcomes with frontline nilotinib versus imatinib in newly diagnosed chronic myeloid leukemia in chronic phase: ENESTnd 10-year analysis.
+
+## Journal
+Leukemia
+
+## Authors
+Hagop M Kantarjian, Timothy P Hughes, Richard A Larson, Dong-Wook Kim, Surapol Issaragrisil, Philipp le Coutre, Gabriel Etienne, Carla Boquimpani, Ricardo Pasquini, Richard E Clark, Viviane Dubruille, Ian W Flinn, Slawomira Kyrcz-Krzemien, Ewa Medras, Maria Zanichelli, Israel Bendit, Silvia Cacciatore, Ksenia Titorenko, Paola Aimone, Giuseppe Saglio, Andreas Hochhaus
+
+## Publication Date
+2021-Feb
+
+## Keywords / MeSH
+Antineoplastic Combined Chemotherapy Protocols, Female, Follow-Up Studies, Humans, Imatinib Mesylate, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Male, Middle Aged, Prognosis, Pyrimidines, Survival Rate
+
+## Abstract
+In the ENESTnd study, with ≥10 years follow-up in patients with newly diagnosed chronic myeloid leukemia (CML) in chronic phase, nilotinib demonstrated higher cumulative molecular response rates, lower rates of disease progression and CML-related death, and increased eligibility for treatment-free remission (TFR). Cumulative 10-year rates of MMR and MR were higher with nilotinib (300 mg twice daily [BID], 77.7% and 61.0%, respectively; 400 mg BID, 79.7% and 61.2%, respectively) than with imatinib (400 mg once daily [QD], 62.5% and 39.2%, respectively). Cumulative rates of TFR eligibility at 10 years were higher with nilotinib (300 mg BID, 48.6%; 400 mg BID, 47.3%) vs imatinib (29.7%). Estimated 10-year overall survival rates in nilotinib and imatinib arms were 87.6%, 90.3%, and 88.3%, respectively. Overall frequency of adverse events was similar with nilotinib and imatinib. By 10 years, higher cumulative rates of cardiovascular events were reported with nilotinib (300 mg BID, 16.5%; 400 mg BID, 23.5%) vs imatinib (3.6%), including in Framingham low-risk patients. Overall efficacy and safety results support the use of nilotinib 300 mg BID as frontline therapy for optimal long-term outcomes, especially in patients aiming for TFR. The benefit-risk profile in context of individual treatment goals should be carefully assessed.
+
+## Affiliations
+Charité - Universitätsmedizin Berlin, Berlin, Germany.; Clinical Hematology, Nantes University Hospital, Nantes, France.; Department of Hematology and Bone Marrow Transplantation, Medical University of Silesia, Katowice, Poland.; Department of Hematology, Blood Neoplasms and Bone Marrow Transplantation, Wroclaw Medical University, Wroclaw, Poland.; Department of Medicine, Section of Hematology/Oncology, University of Chicago, Chicago, IL, USA.; Division of Internal Medicine and Hematology, University of Turin, Turin, Italy.; Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand.; Hematology Department, Institut Bergonié, Bordeaux, France.; Hemorio, Institute of Hematology, Rio de Janeiro, Brazil.; Instituto de Tratamento do Câncer Infantil, Instituto da Criança, Hospital das Clínicas, Universidade de São Paulo, São Paulo, Brazil.; Laboratory of Medical Investigation in Pathogenesis and Targeted Therapy in Onco-Immuno-Hematology (LIM-31), Department of Hematology, Hospital das Clínicas HCFMUSP, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.; Novartis Pharma AG, Basel, Switzerland.; Novartis Pharmaceuticals Corporation, Moscow, Russian Federation.; Oncoclínica Rio de Janeiro, Rio de Janeiro, Brazil.; Royal Liverpool University Hospital, Liverpool, United Kingdom.; Sarah Cannon Research Institute, Nashville, TN, USA.; Seoul St. Mary's Hospital, College of Medicine, Catholic University of Korea, Seoul, South Korea.; South Australian Health and Medical Research Institute, Adelaide, SA, Australia.; The University of Texas MD Anderson Cancer Center, Houston, TX, USA. hkantarjian@mdanderson.org.; Universidade Federal do Paraná, Hospital de Clinicas, Curitiba, Paraná, Brazil.; University of Adelaide, Adelaide, SA, Australia.; Universitätsklinikum Jena, Jena, Germany.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/33414482
+item###################################################################
+ # Asciminib monotherapy as frontline treatment of chronic-phase chronic myeloid leukemia: results from the ASCEND study.
+
+## Journal
+Blood
+
+## Authors
+David T Yeung, Naranie Shanmuganathan, John Reynolds, Susan Branford, Mannu Walia, Agnes S M Yong, Jake Shortt, Lynette Chee, Nicholas Viiala, Ilona Cunningham, David M Ross, Alwyn D'Souza, Matthew Wright, Rosemary Harrup, Cecily Forsyth, Robin Filshie, Steven Lane, Peter Browett, Carolyn Grove, Andrew P Grigg, Timothy P Hughes
+
+## Publication Date
+2024-Nov-07
+
+## Keywords / MeSH
+Adult, Aged, Aged, 80 and over, Antineoplastic Agents, Female, Follow-Up Studies, Fusion Proteins, bcr-abl, Humans, Imatinib Mesylate, Leukemia, Myeloid, Chronic-Phase, Male, Middle Aged, Niacinamide, Protein Kinase Inhibitors, Pyrazoles, Pyrimidines, Treatment Outcome, Young Adult
+
+## Abstract
+Asciminib is a myristoyl site BCR::ABL1 inhibitor approved for patients with chronic-phase chronic myeloid leukemia (CP-CML) failing ≥2 prior lines of therapy. The Australasian Leukaemia and Lymphoma Group conducted the Asciminib Evaluation in Newly Diagnosed CML study to assess efficacy of asciminib for newly diagnosed CP-CML. Patients commenced asciminib 40 mg twice daily. Patients with treatment failure, defined as BCR::ABL1 of >10% at 3 or 6 months, or >1% at 12 or 18 months, received either imatinib, nilotinib, or dasatinib in addition to asciminib. In patients with suboptimal response, defined as levels of 1% to 10% at 6 months, >0.1% to 1% at 12 months, or >0.01% to 1% at 18 months, the asciminib dose was increased to 80 mg twice daily. With a median follow-up of 21 months (range, 0-36), 82 of 101 patients continue asciminib. Most common reasons for treatment discontinuation were adverse events (6%), loss of response (4%), and withdrawn consent (5%). There were no deaths; 1 patient developed lymphoid blast crisis. The coprimary end points were early molecular response (BCR::ABL1 of ≤10% at 3 months), achieved in 93% (96% confidence interval [CI], 86-97%), and major molecular response by 12 months achieved in 79%; (95% CI, 70-87%), respectively. Cumulative incidence of molecular response 4.5 was 53% by 24 months. One patient had 2 cerebrovascular events; no other arterial occlusive events were reported. Asciminib as frontline CP-CML therapy leads to high rates of molecular response with excellent tolerance and a low rate of discontinuation for toxicity. This trial was registered at https://www.anzctr.org.au/ as #ACTRN12620000851965.
+
+## Affiliations
+Australasian Leukaemia and Lymphoma Group, Melbourne, Australia.; Cancer Care Services, Royal Brisbane and Women's Hospital and University of Queensland, Brisbane, Australia.; Department of Clinical Haematology, The Royal Melbourne Hospital and Peter MacCallum Cancer Centre and Department of Medicine, University of Melbourne, Melbourne, Australia.; Department of Genetics and Molecular Pathology, SA Pathology and Centre for Cancer Biology, University of South Australia, and Adelaide Medical School, University of Adelaide, Adelaide, Australia.; Haematology Department, Auckland Hospital and University of Auckland, Auckland, New Zealand.; Haematology Department, Austin Hospital and University of Melbourne, Melbourne, Australia.; Haematology Department, Concord Hospital and University of Sydney, Sydney, Australia.; Haematology Department, Fiona Stanley Hospital and University of Western Australia, Perth, Australia.; Haematology Department, Flinders Medical Centre and Flinders University, Adelaide, Australia.; Haematology Department, Gosford Hospital, Gosford, Australia.; Haematology Department, Liverpool Hospital and University of New South Wales, Sydney, Australia.; Haematology Department, Royal Adelaide Hospital, Adelaide Medical School, University of Adelaide and Precision Cancer Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, Australia.; Haematology Department, Royal Hobart Hospital and University of Tasmania, Hobart, Australia.; Haematology Department, Royal Perth Hospital and University of Western Australia, Perth, Australia.; Haematology Department, Sir Charles Gardiner Hospital and PathWest, University of Western Australia, Perth, Australia.; Haematology Department, St Vincent's Hospital and University of Melbourne, Melbourne, Australia.; Haematology Department, Wellington Hospital and University of Otago, Wellington, New Zealand.; Monash Haematology, Monash Health and Department of Medicine, School of Clinical Sciences at Monash Health, Monash University, Melbourne, Australia.; The Alfred Hospital and Australian Centre for Blood Diseases, Monash University, Melbourne, Australia.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/39102630
+item###################################################################
+ # Olverembatinib (HQP1351), a well-tolerated and effective tyrosine kinase inhibitor for patients with T315I-mutated chronic myeloid leukemia: results of an open-label, multicenter phase 1/2 trial.
+
+## Journal
+Journal of hematology & oncology
+
+## Authors
+Qian Jiang, Zongru Li, Yazhen Qin, Weiming Li, Na Xu, Bingcheng Liu, Yanli Zhang, Li Meng, Huanling Zhu, Xin Du, Suning Chen, Yang Liang, Yu Hu, Xiaoli Liu, Yongping Song, Lichuang Men, Zi Chen, Qian Niu, Hengbang Wang, Ming Lu, Dajun Yang, Yifan Zhai, Xiaojun Huang
+
+## Publication Date
+2022-Aug-18
+
+## Keywords / MeSH
+Adult, Angiogenesis Inhibitors, Drug Resistance, Neoplasm, Fusion Proteins, bcr-abl, Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Mutation, Protein Kinase Inhibitors
+
+## Abstract
+BCR-ABL1 mutations confer resistance to tyrosine kinase inhibitors (TKIs) in chronic myeloid leukemia (CML). Olverembatinib is a new potent BCR-ABL1 TKI with preclinical activity against T315I-mutated CML. In phase 1/2 studies, we explored the safety and efficacy of olverembatinib in Chinese adults with TKI-resistant CML in the chronic phase (CML-CP) and accelerated phase (CML-AP). In the phase 1 study, olverembatinib was orally administered once every other day in 28-day cycles at 11 dose cohorts ranging from 1 to 60 mg, and we evaluated the maximum tolerated dose, recommended phase 2 dose (RP2D), safety, efficacy, and pharmacokinetics of olverembatinib. In the phase 2 studies, olverembatinib was administered at the RP2D of 40 mg orally on alternate days for 28-day cycles. The primary outcome measure is major cytogenetic response (MCyR) and major hematologic response by the end of Cycle 12 in CML-CP and CML-AP, respectively. Fine and Gray's hazard models were used to identify covariates associated with responses. A total of 165 patients (> 80.0% of whom had received ≥ 2 TKIs) were enrolled in this study. Among 127 patients with CML-CP, the 3-year cumulative incidences of achieving MCyR, complete cytogenetic response (CCyR), major molecular response (MMR), MR, and MR were 79.0, 69.0, 56.0, 44.0 and 39.0%, respectively. The highest response rates were observed in patients with a single T315I mutation. Among 38 patients with CML-AP, the 3-year cumulative incidences of achieving MCyR, CCyR, MMR, MR, and MR were 47.4%, 47.4%, 44.7%, 39.3%, and 32.1%, respectively. In multivariate analyses, baseline BCR-ABL1 mutation status was significantly associated with cytogenetic and molecular responses. Common treatment-related adverse events included skin hyperpigmentation, hypertriglyceridemia, proteinuria, and severe thrombocytopenia. Olverembatinib was well tolerated, with significant antileukemic activity in adults with TKI-resistant CML-CP and CML-AP, especially those with the T315I mutation. The phase 1 trial is registered at CTR20220566, and the two single-arm, open-label phase 2 studies are registered at ClinicalTrials.gov: NCT03883087 (CML-CP) and NCT03883100 (CML-AP).
+
+## Affiliations
+Academy for Advanced Interdisciplinary Studies, Peking University, No. 11 South Street of Xizhimen, Xicheng District, Beijing, 100044, China. huangxiaojun@bjmu.edu.cn.; Ascentage Pharma (Suzhou) Co., Ltd, 218 Xinghu St, Bldg B7, 7th Floor, Suzhou Industrial Park, Suzhou, 215000, Jiangsu, China.; Ascentage Pharma Group Inc., 800 King Farm Blvd Suite 300, Rockville, MD, 20850, USA.; Beijing Key Laboratory of Hematopoietic Stem Cell Transplantation, No. 11 South Street of Xizhimen, Xicheng District, Beijing, 100044, China. huangxiaojun@bjmu.edu.cn.; Department of Hematology, Nanfang Hospital, Southern Medical University, 1838 Guangzhou N Ave, Baiyun, Guangzhou, 510515, Guangdong Province, China.; Department of Hematology, The Affiliated Cancer Hospital of Zhengzhou University and Henan Cancer Hospital, Zhengzhou, 450008, Henan, China.; Department of Hematology, Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, Hubei, China.; Department of Hematology, West China Hospital of Sichuan University, No. 37 Guoxue Alley, Wuhou District, Chengdu City, 610000, Sichuan Province, China.; Division of Hematology, Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen University, 3002 Sungang W Rd, Futian District, Shenzhen, 518000, Guangdong Province, China.; Guangzhou Healthquest Pharma Co. Ltd., Room F314, GIBI, No. 3 Lanyue Road, Guangzhou, 510663, China.; National Clinical Research Center for Hematologic Disease, Peking University People's Hospital, Peking University Institute of Hematology, No. 11 South Street of Xizhimen, Xicheng District, Beijing, 100044, China.; National Clinical Research Center for Hematologic Disease, Peking University People's Hospital, Peking University Institute of Hematology, No. 11 South Street of Xizhimen, Xicheng District, Beijing, 100044, China. huangxiaojun@bjmu.edu.cn.; National Clinical Research Center for Hematologic Diseases, The First Affiliated Hospital of Soochow University, Jiangsu Institute of Hematology, Institute of Blood and Marrow Transplantation, Collaborative Innovation Center of Hematology, Soochow University, Suzhou, China.; Peking-Tsinghua Center for Life Sciences, No. 11 South Street of Xizhimen, Xicheng District, Beijing, 100044, China. huangxiaojun@bjmu.edu.cn.; State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin, 300020, China.; State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, 651 Dongfeng Road East, Guangzhou, 510060, Guangdong Province, China.; State Key Laboratory of Oncology in South China, Department of Hematologic Oncology, Collaborative Innovation Center for Cancer Medicine, Sun Yat-Sen University Cancer Center, 651 Dongfeng Road East, Guangzhou, 510060, Guangdong Province, China.; Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, Hubei, China.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/35982483
+item###################################################################
+ # Chronic Myeloid Leukemia: Modern therapies, current challenges and future directions.
+
+## Journal
+Blood reviews
+
+## Authors
+Afaf E G Osman, Michael W Deininger
+
+## Publication Date
+2021-Sep
+
+## Keywords / MeSH
+Animals, Antineoplastic Agents, Disease Management, Disease Models, Animal, Humans, Leukemia, Myelogenous, Chronic, BCR-ABL Positive, Models, Molecular, Protein Kinase Inhibitors
+
+## Abstract
+Chronic myeloid leukemia (CML) is a myeloproliferative neoplasm caused by a reciprocal translocation [t(9;22)(q34;q11.2)] that leads to the fusion of ABL1 gene sequences (9q34) downstream of BCR gene sequences (22q11) and is cytogenetically visible as Philadelphia chromosome (Ph). The resulting BCR/ABL1 chimeric protein is a constitutively active tyrosine kinase that activates multiple signaling pathways, which collectively lead to malignant transformation. During the early (chronic) phase of CML (CP-CML), the myeloid cell compartment is expanded, but differentiation is maintained. Without effective therapy, CP-CML invariably progresses to blast phase (BP-CML), an acute leukemia of myeloid or lymphoid phenotype. The development of BCR-AB1 tyrosine kinase inhibitors (TKIs) revolutionized the treatment of CML and ignited the start of a new era in oncology. With three generations of BCR/ABL1 TKIs approved today, the majority of CML patients enjoy long term remissions and near normal life expectancy. However, only a minority of patients maintain remission after TKI discontinuation, a status termed treatment free remission (TFR). Unfortunately, 5-10% of patients fail TKIs due to resistance and are at risk of progression to BP-CML, which is curable only with hematopoietic stem cell transplantation. Overcoming TKI resistance, improving the prognosis of BP-CML and improving the rates of TFR are areas of active research in CML.
+
+## Affiliations
+Division of Hematology & Hematologic Malignancies, Department of Internal Medicine, University of Utah, Salt Lake City, UT, USA.; Division of Hematology & Hematologic Malignancies, Department of Internal Medicine, University of Utah, Salt Lake City, UT, USA. Electronic address: afaf.osman@hci.utah.edu.
+
+## Source
+https://www.ncbi.nlm.nih.gov/pubmed/33773846
